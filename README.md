@@ -1,5 +1,4 @@
 # Sensor_classifier_project
-Place to store all my project files
 
-1.
-2.
+1. Image_Classification_Check_App.ipynb - GUI checking app 
+2. Sensor_data_learn.ipynb - Learnig procedure 
